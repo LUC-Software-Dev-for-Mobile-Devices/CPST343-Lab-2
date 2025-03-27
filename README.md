@@ -15,11 +15,10 @@ This lab contributes to fulfilling the weekly objectives listed below.
 
 
 ## Instructions:
-- Create a new .NET MAUI application in Visual Studio or Visual Studio for Mac.
+- Create a new .NET MAUI application in Visual Studio code.
 - Use three or more page controls such as ContentPage, NavigationPage, and TabbedPage to create different pages for your application.
   - Demonstrate page navigation by implementing functionality to navigate to different pages within your application
   - Consider using either a FlyoutPage or TabbedPage to navigate between different pages in your application.
-  - Consider using the App Shell to provide a navigation framework for your application
 - Use a layout control to organize and arrange the view controls of your application.
 - Include six or more view controls such as labels, buttons, text boxes, and images in your application.
 - Define resources at the application level, such as colors, fonts, and styles.
