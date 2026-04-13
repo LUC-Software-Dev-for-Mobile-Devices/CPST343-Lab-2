@@ -44,4 +44,4 @@ This lab contributes to fulfilling the weekly objectives listed below.
 * Inclusion of three or more page controls (3 points)
 
 ## Submission Guidelines
-Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository. Make sure you receive confirmation from Sakai that your assignment has been submitted.
+Your project folder will need to be submitted to the assigned GitHub repository provided to you by the instructor. In Sakai, you will need to submit the link to your repository and a short recording explaining the code implemented and the rendered application.  Both the link to the video and repository should be uploaded to Sakai. Make sure you receive confirmation from Sakai that your assignment has been submitted.
